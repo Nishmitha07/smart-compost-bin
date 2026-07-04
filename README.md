@@ -1,4 +1,4 @@
-# 🌱 Automatic Smart Compost Bin
+# 🌱 Smart Compost Bin: An IoT-Based Automated Organic Waste Management System
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-ArduinoIDE-blue)
